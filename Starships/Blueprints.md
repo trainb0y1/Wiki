@@ -26,7 +26,9 @@ Materials needed:
 
 Sign Format:
 Line 1: [shipfactory]
+
 Line 2: {blueprint name}
+
 Line 3/4: (LEAVE BLANK)
 
 

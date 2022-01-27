@@ -2,9 +2,6 @@
 Thrusters are the main way your ship moves around
 
 ---
-# Glowstone
-
----
 # Ion
 
 ---
@@ -17,5 +14,4 @@ Thrusters are the main way your ship moves around
 
 
 
----
-NOTE: INFORMATION ON THIS PAGE MAY BE OUTDATED
+

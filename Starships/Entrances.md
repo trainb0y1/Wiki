@@ -47,3 +47,18 @@ Materials:
 >2x Iron Bar
 
 Right click on sign with "[Airlock]" on it for it to detect
+
+---
+# Boarding Ramps
+A toggleable staircase!
+
+{INSERT IMAGE HERE}
+
+Materials:
+>1x Oak Sign
+
+>?x Stair
+
+>?x Solid Block
+
+Right click on sign with "[BoardingRamp]" on it for it to detect

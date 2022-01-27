@@ -22,12 +22,7 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 {INSERT IMAGE HERE}
 
 ---
-# Rockets? (Needs verification)
-
-{INSERT IMAGE HERE}
-
----
-# Phasers? (Needs verification)
+# Phasers
 
 {INSERT IMAGE HERE}
 

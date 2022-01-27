@@ -48,6 +48,7 @@ Materials:
 
 Right click on sign with "[Airlock]" on it for it to detect
 
+[WARNING: AIRLOCKS ARE CURRENTLY BROKEN]
 ---
 # Boarding Ramps
 A toggleable staircase!

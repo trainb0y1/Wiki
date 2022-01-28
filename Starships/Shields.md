@@ -88,3 +88,22 @@ Materials: (TAKEN FROM [The Starlegacy Wiki](https://github.com/StarLegacy/StarL
 > 4x sponge
 
 ---
+# Box Shield
+Radius: Varying
+
+{INSERT IMAGE HERE}
+
+Materials:
+> 1x Diamond Block
+
+> 1x Glass Block
+
+> 2x Glass Pane
+
+> 8x Iron Block
+
+> 1x Oak Sign
+
+---
+# See also
+> [Starship Weapons](/Starships/Weapons.md)

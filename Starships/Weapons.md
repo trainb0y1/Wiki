@@ -29,4 +29,4 @@ Starship Weapons are an important part of ships, this part of the wiki goes over
 
 ---
 # See Also
-> [Turrets](/main/Machines/Turrets.md)
+> [Turrets](/Machines/Turrets.md)

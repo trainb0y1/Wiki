@@ -1,8 +1,7 @@
 # Hyperdrives
 Hyperdrives allow you to get to many different places quickly! They are faster than normal moving and are just generally more efficient.
 
-> Do /jump [planets or coordinates] to get to a area with a hyperdrive!
-> Requires a Navigation Computer
+> Do /jump [planets or coordinates] to get to a area with a hyperdrive! (Requires an Advanced or Basic Navigation Computer)
 
 ---
 # Tier 1

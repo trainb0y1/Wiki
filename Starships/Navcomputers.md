@@ -13,9 +13,11 @@ Materials:
 
 > 2x Diamond Block
 
-> 2x Glass Block
+> 1x Glass Block
 
 > 4x Glass Pane
+
+> 1x Sponge
 
 ---
 # Advanced Navcomputer

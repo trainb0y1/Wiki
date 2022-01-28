@@ -34,3 +34,5 @@ Materials:
 (Insert materials here)
 
 ---
+# See also
+> [Starship Weapons](/Starships/Weapons.md)

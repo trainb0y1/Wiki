@@ -63,4 +63,4 @@ Materials:
 
 Right click on sign with "[BoardingRamp]" on it for it to detect
 
-[WARNING: BOARDING-RAMPS MAY BE CURRENTLY BROKEN]
+[WARNING: BOARDING-RAMPS MAY BE CURRENTLY BROKEN!]

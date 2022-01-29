@@ -16,6 +16,7 @@ You can also color-code pipes using different glass, This can result in differen
 
 {INSERT IMAGE HERE}
 
+---
 # Examples
 
 {INSERT SOME EXAMPLES OF PIPING HERE}

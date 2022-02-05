@@ -2,10 +2,25 @@
 # Blasters
 
 ## Blaster Pistol
+Blaster pistols have the shortest cooldown of any blaster, but also the shortest range and least damage.
 ### Statistics
+> Power Capacity: 2,500  
+> Max Uses: 2,500  
+> Projectile Speed: 1,100  
+> Range: 50  
+> Cooldown: 300  
+> Power Per Shot: 10  
+> Damage: 6  
+
 ### Crafting
+![image](https://user-images.githubusercontent.com/66213737/152658367-45927a0b-28aa-48ba-a12c-dedd0ad2091d.png)
+> 1x Titanium  
+> 1x Glass Pane  
+> 1x Battery A  
+
 
 ## Blaster Rifle
+The middle ground between blaster pistols and blaster snipers, blaster rifles have moderate damage and cooldown.
 ### Statistics
 > Power Capacity: 7,500  
 > Max Uses: 5,000  

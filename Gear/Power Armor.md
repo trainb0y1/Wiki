@@ -1,6 +1,17 @@
 # Power Armor
-## Armor Pieces
+Power Armor is a specialized type of armor that can grant the player special abilities, through the use of modules.
+
 ### Crafting
+Each armor piece is crafted using titanium ingots and size G batteries.
+#### Helmet
+![image](https://user-images.githubusercontent.com/66213737/152658937-7cc63b3e-acfe-4a20-a0be-4f75f2c37cce.png)
+#### Chestplate
+![image](https://user-images.githubusercontent.com/66213737/152658990-5d87908a-8f8f-4df3-b032-04f7d4e7d995.png)
+#### Leggings
+![image](https://user-images.githubusercontent.com/66213737/152659020-e699abc2-265f-4d91-89b5-8fde6a86024c.png)
+#### Boots
+![image](https://user-images.githubusercontent.com/66213737/152659035-74f44347-063f-4b46-a6ed-d4f618984866.png)
+
 
 ## Armor Modules
 Armor modules are the core of what makes power armor different from the vanilla armors.
